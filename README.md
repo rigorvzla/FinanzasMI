@@ -1,6 +1,6 @@
 # FinanzasMI
 
-![Versión](https://img.shields.io/badge/versi%C3%B3n-1.0.0-blue)
+![Versión](https://img.shields.io/badge/versi%C3%B3n-2.5.0-blue)
 ![Plataforma](https://img.shields.io/badge/plataforma-Android-green)
 ![.NET](https://img.shields.io/badge/.NET-8.0-purple)
 
