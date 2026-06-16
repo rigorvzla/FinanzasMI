@@ -79,9 +79,9 @@ FinanzasMI es una aplicación móvil de finanzas personales diseñada para el me
 
 ## 📱 Capturas de pantalla
 
-| Ingresos | Gastos | Análisis |
-|----------|--------|----------|
-| Próximamente | Próximamente | Próximamente |
+| Ingresos | Gastos | Deudores / Acreedores |   Instalación   |
+|----------|--------|----------|---------|
+| <img width="180" height="320" alt="photo_2026-06-15_19-45-39" src="https://github.com/user-attachments/assets/6cd16544-d243-4139-8f89-70bc8568eeaa" /> | <img width="180" height="320" alt="photo_2026-06-15_19-45-37" src="https://github.com/user-attachments/assets/8d0ebe6b-8b0c-40b8-8559-b59ef72e039e" /> | <img width="180" height="320" alt="photo_2026-06-15_19-45-39 (2)" src="https://github.com/user-attachments/assets/d0da0a41-5804-422b-8392-ce63f6db86f1" /> | <img width="180" height="320" alt="Screenrecorder-2026-06-14-22-05-33-744" src="https://github.com/user-attachments/assets/9e1dc015-3374-45f4-a360-d3479f3ba05b" />|
 
 ## 🎯 Ventajas de usar FinanzasMI
 
